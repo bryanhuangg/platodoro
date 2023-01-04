@@ -15,7 +15,7 @@ Assets made using [MagicaVoxel](https://ephtracy.github.io/), assembled on Unity
 
 ## Features
 
-- 25/5 Pomodoro Timer
+- 25/5 Pomodoro timer
 - Pause/Start button
 - Fullscreen mode
 - Spinning platypus
