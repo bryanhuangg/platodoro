@@ -4,8 +4,11 @@
 # Platodoro
 
 A simple pomodoro timer with a spinning platypus, for those who want to study with a friend  :)
+Download [here](https://github.com/enviio/platodoro/releases/tag/platodoro)!
 
 Assets made using [MagicaVoxel](https://ephtracy.github.io/), assembled on Unity. 
+
+
 
 ## Preview:
 
