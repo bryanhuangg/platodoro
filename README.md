@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/enviio/platodoro/blob/main/icon.png)
+![Logo](https://github.com/enviio/platodoro/blob/main/icon.png =200x200)
 
 
 # Platodoro
