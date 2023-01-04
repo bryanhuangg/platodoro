@@ -1,5 +1,5 @@
 
-<img src="https://github.com/enviio/platodoro/blob/main/icon.png" width="100" height="100" />
+
 
 # Platodoro
 
@@ -9,5 +9,5 @@ Assets made using [MagicaVoxel](https://ephtracy.github.io/), assembled on Unity
 
 ## Demo
 
-
+<img src="https://github.com/enviio/platodoro/blob/main/demo.gif" width="350" title="preview">
 
