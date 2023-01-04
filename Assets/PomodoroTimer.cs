@@ -21,7 +21,7 @@ public class PomodoroTimer : MonoBehaviour
     {
         if (!isPaused)
         {
-            timeRemaining -= 60*Time.deltaTime;
+            timeRemaining -= Time.deltaTime;
             if (timeRemaining <= 0.0f)
             {
                 if (isWorkPeriod)
